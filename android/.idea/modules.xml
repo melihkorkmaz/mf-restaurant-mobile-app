@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/menufieldrestaurantmobile.iml" filepath="$PROJECT_DIR$/menufieldrestaurantmobile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-device-info/android/react-native-device-info.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-device-info/android/react-native-device-info.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-keep-awake/android/react-native-keep-awake.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-keep-awake/android/react-native-keep-awake.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-sound/android/react-native-sound.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-sound/android/react-native-sound.iml" />
+    </modules>
+  </component>
+</project>

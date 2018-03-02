@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/melih/Projects/Personel/Menufield/menufield-restaurant-mobile/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/home/melih/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/ae45d39cd9a215e6964f78acb06fccc3/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "280",
+                        "endColumns": "55",
+                        "endOffsets": "331"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

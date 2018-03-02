@@ -1,0 +1,4 @@
+#Fri Mar 02 10:09:00 EET 2018
+base.0=/home/melih/Projects/Personel/Menufield/menufield-restaurant-mobile/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
